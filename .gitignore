@@ -1,0 +1,4 @@
+.env
+.env.example
+
+    "https://api.explorer.aleo.org/v1",
